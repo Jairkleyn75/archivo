@@ -1,0 +1,13 @@
+body {
+	background-image: url('../img/y-so-serious.png');
+}
+
+.jumbotron{
+	background-color:  #f44336;
+	color: white;
+}
+
+.panel-heading {
+	background-color: #f44336 !important;
+	color: white !important;
+}sftp://root@192.168.1.18/usr/share/nginx/html/img/moroccan-flower-dark.png
